@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 74,
+    "uniqCompNum": 75,
     "versionPublish": "3.10.7"
   },
   "pages": {
@@ -168,7 +168,7 @@
             }
           },
           "title": "BIOGRAPHY",
-          "text": "Alicia Rosales is a junior at Miami Arts Studio. She is in a tech production magnet program. As a tech production student she had learned the basic knowledge to work in programs such as Adobe Photoshop and Microsoft Word. Passionate about art, the move to MAS was an excellent chance to learn, and apply her skills.",
+          "text": "Alicia Rosales is a junior at Miami Arts Studio. She is in a tech production magnet program. As a tech production student she had learned the basic knowledge to work in programs such as Adobe Photoshop. Passionate about art, the move to MAS was an excellent chance to learn &nbsp;and apply her skills.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content6-e\" data-toolbar=\"-mbrBtnMove\">Continue</a>"
         },
         {
@@ -326,6 +326,26 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote><p>\"It's the possibility of having a dream come true that makes life interesting\"</p><p>The Alchemist by Paulo Coelho</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-22",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Biography continue",
+          "meta": ""
         },
         {
           "_tags": [

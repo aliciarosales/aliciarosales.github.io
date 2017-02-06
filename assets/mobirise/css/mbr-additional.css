@@ -488,6 +488,10 @@ h6,
   text-align: left;
   font-size: 16px;
 }
+#header3-22 .mbr-section-title,
+#header3-22 .mbr-section-subtitle {
+  text-align: center;
+}
 #content6-e P {
   text-align: left;
 }
