@@ -293,7 +293,7 @@
           "title1": "Rolo",
           "subtitle1": "Project 2",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"adobephotoshop.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"adobephotoshop.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/composite-7-600x630.jpg",
@@ -379,8 +379,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-4b",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2420,19 +2420,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-2d",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p>\"It's the possibility of having a dream come true that makes life interesting\"</p><p>The Alchemist by Paulo Coelho</p></blockquote>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -2475,10 +2462,10 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-2g",
+          "_name": "contacts3",
+          "_anchor": "contacts3-4b",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -2491,11 +2478,16 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1466699514193-d2327ed2cccb-265x149.jpg",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "linkInNewWindow": false,
               "name": "contact-form",
               "family": "MobiriseIcons",
@@ -2504,9 +2496,69 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>13053 SW 6th Street<br>Miami, Fl 33184",
-          "text2": "<strong>Contacts</strong><br>\nEmail: arosales@miamiartsstudio.com<br>\nPhone: +1 (786) 486 8510<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for M</a>ac"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 786 486 8510",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "13053 SW 6th Street, Miami, FL 33184",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "arosales@miamiartsstudio.com",
+          "title1": "Categories",
+          "text5": "<li>Applications</li><li>Credentials</li><li>Refernces</li><li>Biography</li>",
+          "text6": "<strong>Contacts</strong><br>Email: arosales@miamiartsstudio<br>Phone: +1 786 486 8510<br><br><br><br><strong>Address</strong><br>13053 SW 6th Street, Miami, FL 33184",
+          "form": {
+            "title": "MESSAGE",
+            "action": "arosales@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact</a>"
         }
       ]
     },
