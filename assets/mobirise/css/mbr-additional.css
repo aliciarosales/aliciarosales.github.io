@@ -566,6 +566,10 @@ h6,
 #menu-n .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#social-buttons4-4j .mbr-section-title,
+#social-buttons4-4j .btn-social {
+  color: #fff;
+}
 #menu-x .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1146,4 +1150,8 @@ h6,
 }
 #content6-2f P {
   text-align: left;
+}
+#social-buttons4-4i .mbr-section-title,
+#social-buttons4-4i .btn-social {
+  color: #fff;
 }
