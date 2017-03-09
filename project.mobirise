@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "adobephotoshop.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1149,6 +1149,66 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/roster-of-performers-2000x1545-800x618.jpg",
                 "image": "@PROJECT_PATH@/assets/images/roster-of-performers-2000x1545.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Masterpiece",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Masterpiece",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Masterpiece",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Masterpiece",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Masterpiece",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Masterpiece",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
